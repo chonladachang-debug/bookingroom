@@ -212,4 +212,4 @@ void runBigOBenchmark() {
 // ==========================================
 void printTree2D(IntervalNode *root, int space) {
     if (!root) return;
-     printTree ;
+     void printTree(struct Node* root);
